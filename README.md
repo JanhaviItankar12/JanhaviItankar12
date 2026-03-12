@@ -10,7 +10,7 @@
 - 🚀 Built scalable multi-role enterprise applications
 - 📊 Strong focus on performance, security & real-world solutions
 - 🧠 Actively improving Data Structures & Algorithms using Java
-- 🏆 Scored 100 in Mathematics (HSC Board)
+- 🏆 Scored 100 marks in Mathematics (HSC Board)
 
 ---
 
