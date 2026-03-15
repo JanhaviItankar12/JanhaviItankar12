@@ -47,13 +47,25 @@ Git | GitHub | Postman | Hoppscotch | Figma | VS Code
 
 ---
 
-### 🧠 QuizNova – Full Stack Quiz Platform
-- Supports MCQ, Short Answer & True/False
-- Time-bound quiz engine
-- Role-based dashboards
-- Complete quiz management system
 
-🔗 GitHub: https://github.com/JanhaviItankar12/QuizNova  
+### 🏛️ eSeva – Digital Government Service Platform
+- Online application system for government services
+- Document upload & verification workflow
+- Status tracking for submitted applications
+- Email & SMS notifications for updates
+- Admin dashboard for managing requests
+
+🔗 GitHub: https://github.com/JanhaviItankar12/eSeva  
+
+---
+
+### 🌱 EcoWarriors – Environmental Awareness Platform
+- Gamified platform encouraging eco-friendly actions
+- Users earn points by completing environmental tasks
+- NGO event integration (tree plantation, drives, etc.)
+- Leaderboard and community participation features
+
+🔗 GitHub: https://github.com/JanhaviItankar12/EcoWarriors
 
 ---
 
