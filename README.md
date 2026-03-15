@@ -78,9 +78,13 @@ Git | GitHub | Postman | Hoppscotch | Figma | VS Code
 ## 🌐 Connect With Me
 
 🌐 Portfolio: https://jcode-delta.vercel.app/
+
 📧 itankarjanvi@gmail.com  
+
 💼 LinkedIn: https://www.linkedin.com/in/itankarjanhavi12/  
+
 💻 GitHub: https://github.com/JanhaviItankar12  
+
 📈 GFG: https://www.geeksforgeeks.org/profile/janhavi12  
 
 
