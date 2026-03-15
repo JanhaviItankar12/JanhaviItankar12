@@ -65,7 +65,7 @@ Git | GitHub | Postman | Hoppscotch | Figma | VS Code
 - NGO event integration (tree plantation, drives, etc.)
 - Leaderboard and community participation features
 
-🔗 GitHub: https://github.com/JanhaviItankar12/EcoWarriors
+🔗 GitHub: https://github.com/JanhaviItankar12/EcoWarrior
 
 ---
 
